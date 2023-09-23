@@ -5,7 +5,7 @@ This account is collection of assorted projects I have worked on throughout my j
 - 🧠 attempting to apply variational auto-encoders to spectrograms using [PyTorch](https://github.com/pytorch/pytorch) (with limited success)
 ##### My past projects include
 - [📖](https://github.com/BOBONA/Mikraot-Gedolot) a demo for a fast Hebrew source retriever and page formatter, leveraging the [Sefaria](https://github.com/Sefaria/Sefaria-Project) API
-- 🔬 working for [Ptolemi](https://github.com/Bar-Ilan-Microfluidics-Laboratory/Ptolemi-V5), an automated tool for counting and labeling microscope images of cancer cells
+- 🔬 working for [Ptolemi](https://github.com/Bar-Ilan-Microfluidics-Laboratory), an automated tool for counting and labeling microscope images of cancer cells
 - [📝](https://github.com/BOBONA/Wordles) an automated directory for variants of the popular word game, Wordle 
 - [🧮](https://github.com/BOBONA/UsefulCalculator) a rough prototype for a parsing calculator, made with [wxWidgets](https://github.com/wxWidgets/wxWidgets) as a way to practice C++
 - [📊](https://github.com/caoash/configurable-ranking-system) a [Flask](https://github.com/pallets/flask) API and [React](https://github.com/facebook/react) frontend for importing and sorting databases according to custom criteria
