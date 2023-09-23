@@ -13,4 +13,4 @@ This account is collection of assorted projects I have worked on throughout my j
 - [🏘](https://github.com/BOBONA/PredictingRealEstate) scraping and analyzing public housing data 
 - [🎮](https://github.com/BOBONA/apri) a disorganized set of utilities built on the [LibGDX](https://github.com/libgdx/libgdx) game development framework, made with the intention of understanding development practices in more complex situations 
 ##### Fun fact ✨
-If you contact me, I will almost definitely respond. I'm happy to discuss anything listed here, or just programming in general. 
+If you contact me, I will almost definitely respond! I'm happy to discuss anything listed here, or just programming in general. 
