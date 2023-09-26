@@ -1,5 +1,5 @@
 ### Welcome to my humble abode! 👋
-This account is collection of assorted projects I have worked on throughout my journey of programming. I view every project as a learning experience and always look for topics that pique my interest.
+This account is collection of assorted projects I have worked on throughout my journey of programming. I view every project as a learning experience and am always looking for topics to pique my interest.
 ##### I am currently 
 - 🎧 learning the [JUCE](https://github.com/juce-framework/JUCE) framework by developing a simple but feature-rich audio sampler plugin 
 - 🧠 attempting to apply variational auto-encoders to spectrograms using [PyTorch](https://github.com/pytorch/pytorch) (with limited success)
