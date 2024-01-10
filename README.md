@@ -4,7 +4,7 @@ This account is a collection of assorted projects I have worked on throughout my
 - 🎧 learning the [JUCE](https://github.com/juce-framework/JUCE) framework by developing a simple but feature-rich audio sampler plugin 
 - 🧠 attempting to apply variational auto-encoders to spectrograms using [PyTorch](https://github.com/pytorch/pytorch) (with limited success)
 ##### My past projects include
-- [♟] (https://github.com/AlexanderHott/chess_hackathon_23/tree/main) a Python-based chess bot, using minimax with a smorgasbord of techniques
+- [♟](https://github.com/AlexanderHott/chess_hackathon_23/tree/main) a Python-based chess bot, using minimax with a smorgasbord of techniques
 - [📖](https://github.com/BOBONA/Mikraot-Gedolot) a demo for a fast Hebrew source retriever and page formatter, leveraging the [Sefaria](https://github.com/Sefaria/Sefaria-Project) API
 - 🔬 working for [Ptolemi](https://github.com/Bar-Ilan-Microfluidics-Laboratory), an automated tool for counting and labeling microscope images of cancer cells
 - [📝](https://github.com/BOBONA/Wordles) an automated directory for variants of the popular word game, Wordle 
