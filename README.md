@@ -1,7 +1,7 @@
 ### Welcome to my humble abode! 👋
 This account is a collection of assorted projects I have worked on throughout my journey of programming. I view every project as a learning experience and am always looking for topics to pique my interest.
 ##### I am currently 
-- 🎧 learning the [JUCE](https://github.com/juce-framework/JUCE) framework by developing a simple but feature-rich audio sampler plugin (repo is private until I decide on licensing, reach out if you want more details)
+- 🎧 learning the [JUCE](https://github.com/juce-framework/JUCE) framework by developing a simple but feature-rich audio sampler plugin (repo is private until I decide on licensing, please reach out if you want more details)
 - 🧠 attempting to apply variational auto-encoders to spectrograms using [PyTorch](https://github.com/pytorch/pytorch) (with limited success)
 ##### My past projects include
 - [♟](https://github.com/AlexanderHott/chess_hackathon_23/tree/main) a Python-based chess bot, using minimax with a smorgasbord of techniques
