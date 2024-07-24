@@ -2,6 +2,7 @@
 This account is a collection of assorted projects I have worked on throughout my journey of programming. I view every project as a learning experience and am always looking for topics to pique my interest.
 ##### I am currently 
 - 🎧 using the [JUCE](https://github.com/juce-framework/JUCE) framework to develop a simple but feature-rich audio sampler plugin (repo is private until I decide on licensing, please reach out if you want more details)
+- ⚾ developing a system for advanced baseball analytics, using a zero-sum stochastic game model
 ##### My past projects include (in descending order of recency/relevance)
 - ✉ developing a NextJS MVP for EazyLetter, an AI-powered resume and cover letter editing platform
 - [♟](https://github.com/AlexanderHott/chess_hackathon_23/tree/main) a Python-based chess bot, using minimax with a smorgasbord of techniques
