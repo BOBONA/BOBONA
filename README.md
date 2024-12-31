@@ -1,10 +1,9 @@
 ### Welcome to my humble abode! 👋
 This account is a collection of assorted projects I have worked on throughout my journey of programming. I view every project as a learning experience and am always looking for topics to pique my interest.
 ##### I am currently 
-- 💽 researching cache granularity policies in LSM-trees, with RocksDB
-- 🌱 consulting with ProScout
+- 🌱 tinkering at a family tree and archive system
 ##### My past projects include (in descending order of recency/relevance)
-- 🎧 using the [JUCE](https://github.com/juce-framework/JUCE) framework to develop a simple but feature-rich audio sampler plugin (repo is private until I decide on licensing, please reach out if you want more details)
+- [🎧](https://github.com/BOBONA/Just-a-Sample) developing [Just a Sample](https://bobona.github.io/just-a-sample/), a powerful, _modern_ audio sampler, with a focus on simplicity and ease of use
 - ⚾ developing a system for advanced baseball analytics, using a zero-sum stochastic game model
 - ✉ developing a NextJS MVP for EazyLetter, an AI-powered resume and cover letter editing platform
 - [♟](https://github.com/AlexanderHott/chess_hackathon_23/tree/main) a Python-based chess bot, using minimax with a smorgasbord of techniques
