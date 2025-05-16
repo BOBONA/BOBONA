@@ -1,6 +1,7 @@
 ### Welcome to my humble abode! 👋
 This account is a collection of assorted projects I have worked on throughout my journey of programming. I view every project as a learning experience and am always looking for topics to pique my interest.
 ##### I am currently 
+- ✨ interning with Amazon Q
 - 🌱 tinkering at a family tree and archive system
 ##### My past projects include (in descending order of recency/relevance)
 - [🎧](https://github.com/BOBONA/Just-a-Sample) developing [Just a Sample](https://bobona.github.io/just-a-sample/), a powerful, _modern_ audio sampler, with a focus on simplicity and ease of use
