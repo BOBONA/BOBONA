@@ -4,7 +4,7 @@ This account is a collection of assorted projects I have worked on throughout my
 - 🌱 tinkering at a family tree and archive system
 ##### My past projects include (in descending order of recency/relevance)
 - [🎧](https://github.com/BOBONA/Just-a-Sample) developing [Just a Sample](https://bobona.github.io/just-a-sample/), a powerful, _modern_ audio sampler, with a focus on simplicity and ease of use
-- ✨ developing an user customization prototype for Amazon Q
+- ✨ developing a user customization prototype for Amazon Q
 - ⚾ developing a system for advanced baseball analytics, using a zero-sum stochastic game model
 - ✉ developing a NextJS MVP for EazyLetter, an AI-powered resume and cover letter editing platform
 - [♟](https://github.com/AlexanderHott/chess_hackathon_23/tree/main) a Python-based chess bot, using minimax with a smorgasbord of techniques
