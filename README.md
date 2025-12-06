@@ -1,7 +1,12 @@
 ### Welcome to my humble abode! 👋
 This account is a collection of assorted projects I have worked on throughout my journey of programming. I view every project as a learning experience and am always looking for topics to pique my interest.
+
+Check out my [online notes](https://bobona.github.io/notes/).
+
 ##### I am currently 
-- 🌱 tinkering at a family tree and archive system
+- 🧊 thinking about non-Euclidean geomtry
+- 🧮 thinking about automated problem solving
+- 📈 excited to be at MathWorks this upcoming summer
 ##### My past projects include (in descending order of recency/relevance)
 - [🎧](https://github.com/BOBONA/Just-a-Sample) developing [Just a Sample](https://bobona.github.io/just-a-sample/), a powerful, _modern_ audio sampler, with a focus on simplicity and ease of use
 - ✨ developing a user customization prototype for Amazon Q
